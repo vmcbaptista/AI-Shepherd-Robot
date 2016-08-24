@@ -1,4 +1,4 @@
-# AI-Shepherd-Robot
+# AI-Shepherd-Robot - Grade: 18 (in a scale of 20 points)
 Repository of code for the Artificial Intelligence course.
 
 This code was made using Lejos EV3 API.
@@ -19,3 +19,7 @@ In order to do that the robot can have two different action:
   
 Another conditionant is that when one sheep is touched or listens the scream of the robot
 it start moving randomly if the robot goes looses the sheep contact.
+
+
+
+Graded by Dr. Eduardo Fermé @ University of Madeira
