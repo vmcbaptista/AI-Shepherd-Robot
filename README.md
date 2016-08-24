@@ -3,8 +3,9 @@ Repository of code for the Artificial Intelligence course.
 
 This code was made using Lejos EV3 API.
 
-This project consisted by the creation of a program capable to give artificial inteligence
+In this project we had to create a program capable to give artificial inteligence
 to a Lego EV3 robot in order to allow him to solve the problem described bellow:
+
 
 #Problem
 We should consider a table of 6x6.
@@ -20,6 +21,6 @@ In order to do that the robot can have two different action:
 Another conditionant is that when one sheep is touched or listens the scream of the robot
 it start moving randomly if the robot goes looses the sheep contact.
 
-
+You can see some of the recordings here: https://www.youtube.com/watch?v=h5btx9YBHwA
 
 Graded by Dr. Eduardo Fermé @ University of Madeira
