@@ -22,5 +22,5 @@ Another conditionant is that when one sheep is touched or listens the scream of 
 it start moving randomly if the robot goes looses the sheep contact.
 
 You can see some of the recordings here: https://www.youtube.com/watch?v=h5btx9YBHwA
-
+This project was developed by a group of five people (cough cough 3 people)
 Graded by Dr. Eduardo Fermé @ University of Madeira
